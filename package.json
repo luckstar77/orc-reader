@@ -1,0 +1,11 @@
+{
+  "name": "orc-reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@npilots/norc": "^0.3.0",
+    "norc": "^1.1.0",
+    "orc": "^0.0.17"
+  }
+}
